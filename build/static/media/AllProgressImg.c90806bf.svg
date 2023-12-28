@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"
+     stroke-miterlimit="10"
+     version="1.1" viewBox="0 0 210 245" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path id="h"
+      d="m119.2 91.926h23.765c2.927 0 5.3 2.3729 5.3 5.3v138.1c0 2.928-2.373 5.3-5.3 5.3h-23.765c-2.927 0-5.3-2.372-5.3-5.3v-138.1c0-2.9271 2.373-5.3 5.3-5.3z"/>
+    <path id="g"
+          d="m131.12 91.79h11.889c2.927 0 5.3 2.3709 5.3 5.2956v137.99c0 2.924-2.373 5.295-5.3 5.295h-11.889c-2.927 0-5.3-2.371-5.3-5.295v-137.99c0-2.9247 2.373-5.2956 5.3-5.2956z"/>
+    <path id="f"
+          d="m171.19 67.428h23.765c2.927 0 5.3 2.7606 5.3 6.1659v160.67c0 3.405-2.373 6.166-5.3 6.166h-23.765c-2.927 0-5.3-2.761-5.3-6.166v-160.67c0-3.4053 2.373-6.1659 5.3-6.1659z"/>
+    <path id="e"
+          d="m180.92 67.428h15.813c1.948 0 3.527 2.7606 3.527 6.1659v160.67c0 3.405-1.579 6.166-3.527 6.166h-15.813c-1.947 0-3.526-2.761-3.526-6.166v-160.67c0-3.4053 1.579-6.1659 3.526-6.1659z"/>
+    <path id="d"
+          d="m67.497 116.4h23.765c2.9271 0 5.3 1.98 5.3 4.421v115.18c0 2.442-2.3729 4.421-5.3 4.421h-23.765c-2.9271 0-5.3-1.979-5.3-4.421v-115.18c0-2.441 2.3729-4.421 5.3-4.421z"/>
+    <path id="c"
+          d="m77.022 116.4h15.977c1.9679 0 3.5632 1.98 3.5632 4.421v115.18c0 2.442-1.5953 4.421-3.5632 4.421h-15.977c-1.9679 0-3.5632-1.979-3.5632-4.421v-115.18c0-2.441 1.5953-4.421 3.5632-4.421z"/>
+    <path id="b"
+          d="m15.463 140.93h23.765c2.9271 0 5.3 1.588 5.3 3.546v92.404c0 1.958-2.3729 3.546-5.3 3.546h-23.765c-2.9271 0-5.3-1.588-5.3-3.546v-92.404c0-1.958 2.3729-3.546 5.3-3.546z"/>
+    <path id="a"
+          d="m25.24 140.93h15.771c1.9424 0 3.5171 1.588 3.5171 3.546v92.404c0 1.958-1.5747 3.546-3.5171 3.546h-15.771c-1.9424 0-3.5171-1.588-3.5171-3.546v-92.404c0-1.958 1.5747-3.546 3.5171-3.546z"/>
+</defs>
+
+    <g>
+<use fill="#e7b735" xlink:href="#h"/>
+        <mask id="p" x="113.898" y="91.9255" width="34.3652" height="148.702" maskUnits="userSpaceOnUse">
+<rect x="113.9" y="91.926" width="34.365" height="148.7"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#h"/>
+</mask>
+        <use fill="none" mask="url(#p)" stroke="#e7b735" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#h"/>
+</g>
+    <g>
+<use fill="#ffcd38" xlink:href="#g"/>
+        <mask id="o" x="125.824" y="91.7898" width="22.4897" height="148.576" maskUnits="userSpaceOnUse">
+<rect x="125.82" y="91.79" width="22.49" height="148.58"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#g"/>
+</mask>
+        <use fill="none" mask="url(#o)" stroke="#ffcd38" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#g"/>
+</g>
+    <g>
+<use fill="#ec6a34" xlink:href="#f"/>
+        <mask id="n" x="165.89" y="67.4285" width="34.3652" height="172.998" maskUnits="userSpaceOnUse">
+<rect x="165.89" y="67.428" width="34.365" height="173"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#f"/>
+</mask>
+        <use fill="none" mask="url(#n)" stroke="#ec6a34" stroke-linecap="round" stroke-linejoin="round"
+             stroke-width="27.46" xlink:href="#f"/>
+</g>
+    <g>
+<use fill="#ff8c57" xlink:href="#e"/>
+        <mask id="m" x="177.389" y="67.4285" width="22.8662" height="172.998" maskUnits="userSpaceOnUse">
+<rect x="177.39" y="67.428" width="22.866" height="173"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#e"/>
+</mask>
+        <use fill="none" mask="url(#m)" stroke="#ff8c57" stroke-linecap="round" stroke-linejoin="round"
+             stroke-width="27.46" xlink:href="#e"/>
+</g>
+    <g>
+<use fill="#00ad94" xlink:href="#d"/>
+        <mask id="l" x="62.1974" y="116.401" width="34.3652" height="124.026" maskUnits="userSpaceOnUse">
+<rect x="62.197" y="116.4" width="34.365" height="124.03"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#d"/>
+</mask>
+        <use fill="none" mask="url(#l)" stroke="#00ad94" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#d"/>
+</g>
+    <g>
+<use fill="#39c7b4" xlink:href="#c"/>
+        <mask id="k" x="73.4588" y="116.401" width="23.1038" height="124.026" maskUnits="userSpaceOnUse">
+<rect x="73.459" y="116.4" width="23.104" height="124.03"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#c"/>
+</mask>
+        <use fill="none" mask="url(#k)" stroke="#39c7b4" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#c"/>
+</g>
+    <g>
+<use fill="#00a5c6" xlink:href="#b"/>
+        <mask id="j" x="10.1627" y="140.931" width="34.3652" height="99.4959" maskUnits="userSpaceOnUse">
+<rect x="10.163" y="140.93" width="34.365" height="99.496"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#b"/>
+</mask>
+        <use fill="none" mask="url(#j)" stroke="#00a5c6" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#b"/>
+</g>
+    <g>
+<use fill="#49c3df" xlink:href="#a"/>
+        <mask id="i" x="21.7231" y="140.931" width="22.8047" height="99.4959" maskUnits="userSpaceOnUse">
+<rect x="21.723" y="140.93" width="22.805" height="99.496"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#a"/>
+</mask>
+        <use fill="none" mask="url(#i)" stroke="#49c3df" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#a"/>
+</g>
+    <path d="m170.8 15.065-21.996-2.4778" fill="none" stroke="#da5b65" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="13.73"/>
+    <path d="m171.12 15.142-0.438 22.13" fill="none" stroke="#da5b65" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="13.73"/>
+    <path d="m21.974 91.926s41.128-4.3656 78.423-23.55c37.294-19.185 70.754-53.188 70.754-53.188" fill="none"
+          stroke="#da5b65" stroke-linecap="round" stroke-linejoin="round" stroke-width="13.73"/>
+
+</svg>

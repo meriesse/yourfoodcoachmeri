@@ -1,0 +1,217 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"
+     stroke-miterlimit="10"
+     viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <path id="a"
+              d="M43.596 48.01c0-.72.196-1.38.523-1.9.42-.68 1.08-1.113 1.81-1.113 1.29 0 2.34 1.35 2.34 3.014 0 1.67-1.05 3.02-2.34 3.02-1.29 0-2.34-1.35-2.34-3.01z"/>
+        <path id="c"
+              d="M15.943 48.01c0-.72.196-1.38.523-1.9.43-.68 1.084-1.113 1.817-1.113 1.292 0 2.34 1.35 2.34 3.014 0 1.67-1.048 3.02-2.34 3.02-1.292 0-2.34-1.35-2.34-3.01z"/>
+        <path id="e" d="M18.284 44.996H46.07v6.03H18.285v-6.03z"/>
+        <path id="g"
+              d="M16.608 48.003c0-.523.14-1.003.376-1.38.308-.494.778-.81 1.304-.81.93 0 1.68.98 1.68 2.19s-.75 2.19-1.68 2.19-1.68-.98-1.68-2.19z"/>
+        <path id="i"
+              d="M44.086 48.003c0-.523.14-1.003.376-1.38.308-.494.778-.81 1.304-.81.93 0 1.68.98 1.68 2.19s-.75 2.19-1.68 2.19c-.928 0-1.68-.98-1.68-2.19z"/>
+        <path id="k" d="M18.288 45.814h27.48v4.38h-27.48v-4.38z"/>
+        <path id="m" d="M18.29 45.814h2.438v4.357H18.29v-4.35z"/>
+        <path id="o" d="M20.25 45.814h2.438v4.357H20.25v-4.35z"/>
+        <path id="q" d="M22.193 45.836h2.438v4.357H22.2v-4.357z"/>
+        <path id="s" d="M24.13 45.814h2.44v4.357h-2.44v-4.35z"/>
+        <path id="u" d="M26.058 45.836h2.438v4.357h-2.438v-4.357z"/>
+        <path id="w" d="M28.018 45.836h2.438v4.357h-2.438v-4.357z"/>
+        <path id="y" d="M28.018 45.814h2.438v4.357h-2.438v-4.35z"/>
+        <path id="A" d="M29.944 45.836h2.438v4.357h-2.438v-4.357z"/>
+        <path id="C" d="M31.892 45.814h2.438v4.357h-2.438v-4.35z"/>
+        <path id="E" d="M33.82 45.832h2.437v4.357H33.82v-4.36z"/>
+        <path id="G" d="M35.755 45.836h2.438v4.357h-2.438v-4.357z"/>
+        <path id="I" d="M37.675 45.836h2.438v4.357h-2.438v-4.357z"/>
+        <path id="K" d="M39.596 45.836h2.438v4.357h-2.438v-4.357z"/>
+        <path id="M" d="M41.563 45.836H44v4.357h-2.437v-4.357z"/>
+        <path id="O"
+              d="M45.344 10.278c-1.71 0-2.444 1.646-2.444 3.738s.734 3.846 2.444 3.846h.62V21.6l2.406-2.085 1.9-1.653h6.13c1.71 0 2.717-1.754 2.717-3.846s-1.006-3.738-2.716-3.738H45.35z"/>
+        <path id="R"
+              d="M53.512 7.205c0-.006.015-.01.034-.01s.033.004.033.01c0 .007-.02.012-.04.012s-.037-.005-.037-.012z"/>
+        <linearGradient id="Q" x1="53.512" x2="53.579" y1="7.205" y2="7.205" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#fff" offset="0"/>
+            <stop offset="0"/>
+        </linearGradient>
+        <path id="T" d="M53.782 14.106c0-.476.417-.863.93-.863s.932.387.932.863-.417.863-.93.863-.932-.39-.932-.87z"/>
+        <path id="V"
+              d="M50.072 14.106c0-.476.417-.863.93-.863.515 0 .932.387.932.863s-.417.863-.93.863c-.515 0-.932-.39-.932-.87z"/>
+        <path id="X"
+              d="M46.366 14.106c0-.476.417-.863.93-.863.515 0 .932.387.932.863s-.417.863-.93.863c-.515 0-.932-.39-.932-.87z"/>
+    </defs>
+    <path d="M18.308 23.31h26.994c2.036 0 3.687 1.652 3.687 3.688v9.68c0 2.037-1.66 3.688-3.69 3.688H18.31c-2.036 0-3.687-1.65-3.687-3.688v-9.68c0-2.036 1.653-3.687 3.69-3.687z"
+          fill="#fff" stroke="#000" stroke-linecap="butt" stroke-width=".1"/>
+    <path d="M31.81 18.746s-.52 1.798 2.605.906c1.144-.327-.195-2.045-.53-5.26-.444-4.28-.334-2.918-.334-2.918l-.3-6.026-3.79-2.276 2.36 15.573z"
+          fill="#62370d" stroke="#62370d" stroke-width=".5"/>
+    <path d="M24.52 2.277S22.022 9.552 28.81 12.5c6.787 2.944-.91-8.68-4.29-10.223z" fill="#6fd907" stroke="#6fd907"
+          stroke-width=".5"/>
+    <path d="M42.595 9.412s-10.96-.937-9.06 6.97c1.265 5.254 9.467-6.698 9.06-6.97z" fill="#acf325" stroke="#acf325"
+          stroke-width=".5"/>
+    <g stroke="#000" stroke-linecap="butt">
+        <path d="M39.22 26.95c0-1.78 1.44-3.22 3.22-3.22s3.22 1.44 3.22 3.22c0 1.777-1.442 3.22-3.22 3.22s-3.22-1.443-3.22-3.22zm-17.297.56c0-1.777 1.442-3.22 3.22-3.22s3.22 1.443 3.22 3.22c0 1.78-1.44 3.22-3.22 3.22s-3.22-1.44-3.22-3.22z"
+              stroke-width=".5"/>
+        <path d="M24.816 26.452c0-.757.63-1.37 1.41-1.37s1.408.613 1.408 1.37c0 .757-.63 1.37-1.41 1.37s-1.408-.613-1.408-1.37z"
+              fill="#fff" stroke-width=".1"/>
+    </g>
+    <path d="M41.656 25.74c0-.757.63-1.37 1.41-1.37.777 0 1.408.613 1.408 1.37 0 .757-.63 1.37-1.41 1.37-.777 0-1.408-.613-1.408-1.37z"
+          fill="#fff" stroke="#000" stroke-linecap="butt" stroke-width=".1"/>
+    <path d="M22.688 16.72c-4.656-.557-10.212 1.062-13.844 9.843-2.15 5.2-.945 13.457.688 18.844 1.347 4.446 4.68 8.93 6.937 11.656 2.21 2.676 4.12 4.362 6.34 4.562 2.31.208 4.93-1.177 7.37-3.97 2.766-3.16 4.982 4.003 9.905 3.97 2.21-.015 4.836-1.53 8.53-6 1.76-2.126 2.22-2.815 4.376-6.562l.063-.094c.03-.07.196-.39.5-1.07 1.14-2.587 3.62-9.097 3.185-15.75-.18-2.76-.733-5.806-1.845-8.096-2.44-5.033-7.965-8.444-13.405-6.47-2.532.92-4.63 2.103-6.905 2.72-2.326.63-3.377-.178-3.5-.28 0 0-.09-.06-.095-.06-.143-.107-3.748-2.708-8.313-3.25zm.656 6.936C26.46 23.656 29 27.3 29 31.813S26.46 40 23.345 40s-5.625-3.675-5.625-8.187 2.51-8.157 5.624-8.157zm17.312 0c3.116 0 5.625 3.645 5.625 8.157S43.78 40 40.66 40 35 36.325 35 31.813s2.54-8.157 5.656-8.157z"
+          fill="#ff4f4f" stroke="#ff4f4f" stroke-width=".5"/>
+    <use fill="#fff" xlink:href="#a"/>
+    <mask id="b" x="43.596" y="44.996" width="4.68" height="6.028" maskUnits="userSpaceOnUse">
+        <path d="M43.596 44.996h4.68v6.03h-4.68z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#a"/>
+    </mask>
+    <use fill="none" mask="url(#b)" stroke="#fff" stroke-linecap="butt" stroke-width=".5" xlink:href="#a"/>
+    <use fill="#fff" xlink:href="#c"/>
+    <mask id="d" x="15.943" y="44.996" width="4.68" height="6.028" maskUnits="userSpaceOnUse">
+        <path d="M15.943 44.996h4.68v6.03h-4.68z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#c"/>
+    </mask>
+    <use fill="none" mask="url(#d)" stroke="#fff" stroke-linecap="butt" stroke-width=".5" xlink:href="#c"/>
+    <use fill="#fff" xlink:href="#e"/>
+    <mask id="f" x="18.284" y="44.996" width="27.787" height="6.028" maskUnits="userSpaceOnUse">
+        <path d="M18.284 44.996H46.07v6.03H18.285z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#e"/>
+    </mask>
+    <use fill="none" mask="url(#f)" stroke="#fff" stroke-linecap="butt" stroke-width=".5" xlink:href="#e"/>
+    <use fill="#8b8b8b" xlink:href="#g"/>
+    <mask id="h" x="16.608" y="45.814" width="3.361" height="4.379" maskUnits="userSpaceOnUse">
+        <path d="M16.608 45.814h3.36v4.38h-3.36z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#g"/>
+    </mask>
+    <use fill="none" mask="url(#h)" stroke="#000" stroke-linecap="butt" xlink:href="#g"/>
+    <use fill="#8b8b8b" xlink:href="#i"/>
+    <mask id="j" x="44.087" y="45.814" width="3.361" height="4.379" maskUnits="userSpaceOnUse">
+        <path d="M44.086 45.814h3.36v4.38h-3.36z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#i"/>
+    </mask>
+    <use fill="none" mask="url(#j)" stroke="#000" stroke-linecap="butt" xlink:href="#i"/>
+    <use fill="#8b8b8b" xlink:href="#k"/>
+    <mask id="l" x="18.288" y="45.814" width="27.479" height="4.379" maskUnits="userSpaceOnUse">
+        <path d="M18.288 45.814h27.48v4.38h-27.48z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#k"/>
+    </mask>
+    <use fill="none" mask="url(#l)" stroke="#000" stroke-linecap="butt" xlink:href="#k"/>
+    <use fill="#8b8b8b" xlink:href="#m"/>
+    <mask id="n" x="18.29" y="45.814" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M18.29 45.814h2.438v4.357H18.29z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#m"/>
+    </mask>
+    <use fill="none" mask="url(#n)" stroke="#000" stroke-linecap="butt" xlink:href="#m"/>
+    <use fill="#8b8b8b" xlink:href="#o"/>
+    <mask id="p" x="20.25" y="45.814" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M20.25 45.814h2.438v4.357H20.25z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#o"/>
+    </mask>
+    <use fill="none" mask="url(#p)" stroke="#000" stroke-linecap="butt" xlink:href="#o"/>
+    <use fill="#8b8b8b" xlink:href="#q"/>
+    <mask id="r" x="22.193" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M22.193 45.836h2.438v4.357H22.2z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#q"/>
+    </mask>
+    <use fill="none" mask="url(#r)" stroke="#000" stroke-linecap="butt" xlink:href="#q"/>
+    <use fill="#8b8b8b" xlink:href="#s"/>
+    <mask id="t" x="24.131" y="45.814" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M24.13 45.814h2.44v4.357h-2.44z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#s"/>
+    </mask>
+    <use fill="none" mask="url(#t)" stroke="#000" stroke-linecap="butt" xlink:href="#s"/>
+    <use fill="#8b8b8b" xlink:href="#u"/>
+    <mask id="v" x="26.058" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M26.058 45.836h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#u"/>
+    </mask>
+    <use fill="none" mask="url(#v)" stroke="#000" stroke-linecap="butt" xlink:href="#u"/>
+    <use fill="#8b8b8b" xlink:href="#w"/>
+    <mask id="x" x="28.018" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M28.018 45.836h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#w"/>
+    </mask>
+    <use fill="none" mask="url(#x)" stroke="#000" stroke-linecap="butt" xlink:href="#w"/>
+    <use fill="#8b8b8b" xlink:href="#y"/>
+    <mask id="z" x="28.018" y="45.814" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M28.018 45.814h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#y"/>
+    </mask>
+    <use fill="none" mask="url(#z)" stroke="#000" stroke-linecap="butt" xlink:href="#y"/>
+    <use fill="#8b8b8b" xlink:href="#A"/>
+    <mask id="B" x="29.944" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M29.944 45.836h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#A"/>
+    </mask>
+    <use fill="none" mask="url(#B)" stroke="#000" stroke-linecap="butt" xlink:href="#A"/>
+    <use fill="#8b8b8b" xlink:href="#C"/>
+    <mask id="D" x="31.892" y="45.814" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M31.892 45.814h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#C"/>
+    </mask>
+    <use fill="none" mask="url(#D)" stroke="#000" stroke-linecap="butt" xlink:href="#C"/>
+    <use fill="#8b8b8b" xlink:href="#E"/>
+    <mask id="F" x="33.819" y="45.832" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M33.82 45.832h2.437v4.357H33.82z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#E"/>
+    </mask>
+    <use fill="none" mask="url(#F)" stroke="#000" stroke-linecap="butt" xlink:href="#E"/>
+    <use fill="#8b8b8b" xlink:href="#G"/>
+    <mask id="H" x="35.755" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M35.755 45.836h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#G"/>
+    </mask>
+    <use fill="none" mask="url(#H)" stroke="#000" stroke-linecap="butt" xlink:href="#G"/>
+    <use fill="#8b8b8b" xlink:href="#I"/>
+    <mask id="J" x="37.675" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M37.675 45.836h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#I"/>
+    </mask>
+    <use fill="none" mask="url(#J)" stroke="#000" stroke-linecap="butt" xlink:href="#I"/>
+    <use fill="#8b8b8b" xlink:href="#K"/>
+    <mask id="L" x="39.596" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M39.596 45.836h2.438v4.357h-2.438z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#K"/>
+    </mask>
+    <use fill="none" mask="url(#L)" stroke="#000" stroke-linecap="butt" xlink:href="#K"/>
+    <use fill="#8b8b8b" xlink:href="#M"/>
+    <mask id="N" x="41.563" y="45.836" width="2.438" height="4.357" maskUnits="userSpaceOnUse">
+        <path d="M41.563 45.836H44v4.357h-2.437z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#M"/>
+    </mask>
+    <use fill="none" mask="url(#N)" stroke="#000" stroke-linecap="butt" xlink:href="#M"/>
+    <use fill="#fff" xlink:href="#O"/>
+    <mask id="P" x="42.9" y="10.278" width="16.217" height="11.322" maskUnits="userSpaceOnUse">
+        <path d="M42.9 10.278h16.217V21.6H42.9z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#O"/>
+    </mask>
+    <use fill="none" mask="url(#P)" stroke="#000" stroke-linecap="butt" xlink:href="#O"/>
+    <use fill="url(#Q)" xlink:href="#R"/>
+    <mask id="S" x="53.512" y="7.194" width=".067" height=".022" maskUnits="userSpaceOnUse">
+        <path d="M53.512 7.194h.067v.022h-.07z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#R"/>
+    </mask>
+    <use fill="none" mask="url(#S)" stroke="#000" stroke-linecap="butt" xlink:href="#R"/>
+    <use xlink:href="#T"/>
+    <mask id="U" x="53.782" y="13.243" width="1.862" height="1.725" maskUnits="userSpaceOnUse">
+        <path d="M53.782 13.243h1.862v1.725h-1.862z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#T"/>
+    </mask>
+    <use fill="none" mask="url(#U)" stroke="#000" stroke-linecap="butt" xlink:href="#T"/>
+    <use xlink:href="#V"/>
+    <mask id="W" x="50.072" y="13.243" width="1.862" height="1.725" maskUnits="userSpaceOnUse">
+        <path d="M50.072 13.243h1.862v1.725h-1.862z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#V"/>
+    </mask>
+    <use fill="none" mask="url(#W)" stroke="#000" stroke-linecap="butt" xlink:href="#V"/>
+    <use xlink:href="#X"/>
+    <mask id="Y" x="46.367" y="13.243" width="1.862" height="1.725" maskUnits="userSpaceOnUse">
+        <path d="M46.366 13.243h1.862v1.725h-1.862z"/>
+        <use fill="#fff" fill-rule="evenodd" xlink:href="#X"/>
+    </mask>
+    <use fill="none" mask="url(#Y)" stroke="#000" stroke-linecap="butt" xlink:href="#X"/>
+    <clipPath id="Z">
+        <path d="M0 0h64v64H0z"/>
+    </clipPath>
+    <g clip-path="url(#Z)" fill="none" stroke="#000" stroke-linecap="butt" stroke-width=".1" visibility="hidden">
+        <path d="M50.783 14.105L33.85 64m16.934-49.894L24.438 58.562m26.346-44.456L5.77 38.566m45.014-24.46l-52.38 21.51m52.38-21.51L7.57 45.97m43.214-31.864L15.464 51.72"/>
+    </g>
+</svg>

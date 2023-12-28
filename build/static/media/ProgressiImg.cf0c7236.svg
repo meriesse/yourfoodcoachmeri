@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"
+     stroke-miterlimit="10"
+     version="1.1" viewBox="0 0 308 308" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path id="e"
+      d="m27.789 4.3276h252.33c13.165 0 23.837 10.672 23.837 23.838v252.32c0 13.165-10.672 23.838-23.837 23.838h-252.33c-13.165 0-23.838-10.673-23.838-23.838v-252.32c0-13.165 10.672-23.838 23.838-23.838z"/>
+    <path id="d"
+          d="m45.412 136.74h73.168c8.437 0 15.277 6.35 15.277 14.183v105.01c0 7.833-6.84 14.183-15.277 14.183h-73.168c-8.4372 0-15.277-6.35-15.277-14.183v-105.01c0-7.833 6.8397-14.183 15.277-14.183z"/>
+    <path id="c"
+          d="m186.8 136.74h73.168c8.438 0 15.277 6.35 15.277 14.183v105.01c0 7.833-6.839 14.183-15.277 14.183h-73.168c-8.437 0-15.277-6.35-15.277-14.183v-105.01c0-7.833 6.84-14.183 15.277-14.183z"/>
+    <path id="b"
+          d="m70.328 40.601c-4.881 8.5514 9.0963 53.751 17.51 58.23 8.4137 4.4789 22.09-3.2706 38.151-5.2105 16.582-2.003 27.962-0.4694 27.962-1.6899 0-2.4027 0.231-66.796 0.231-66.796s-21.495 0.0242-42.41 2.9545c-19.829 2.7782-39.068 8.3505-41.444 12.512z"/>
+    <path id="a"
+          d="m236.4 40.601c4.882 8.5514-9.096 53.751-17.51 58.23-8.413 4.4789-22.089-3.2706-38.151-5.2105-16.582-2.003-27.962-0.4694-27.962-1.6899 0-2.4027-0.231-66.796-0.231-66.796s21.495 0.0242 42.41 2.9545c19.83 2.7782 39.069 8.3505 41.444 12.512z"/>
+</defs>
+
+    <g>
+<use fill="#2d6c9c" xlink:href="#e"/>
+        <mask id="j" x="3.95125" y="4.32756" width="300" height="300" maskUnits="userSpaceOnUse">
+<rect x="3.9512" y="4.3276" width="300" height="300"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#e"/>
+</mask>
+        <use fill="none" mask="url(#j)" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".5"
+             xlink:href="#e"/>
+</g>
+    <g>
+<use fill="#f6dc61" xlink:href="#d"/>
+        <mask id="i" x="30.1347" y="136.737" width="103.722" height="133.379" maskUnits="userSpaceOnUse">
+<rect x="30.135" y="136.74" width="103.72" height="133.38"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#d"/>
+</mask>
+        <use fill="none" mask="url(#i)" stroke="#f1d244" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#d"/>
+</g>
+    <g>
+<use fill="#f1d244" xlink:href="#c"/>
+        <mask id="h" x="171.527" y="136.737" width="103.722" height="133.379" maskUnits="userSpaceOnUse">
+<rect x="171.53" y="136.74" width="103.72" height="133.38"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#c"/>
+</mask>
+        <use fill="none" mask="url(#h)" stroke="#f1d244" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#c"/>
+</g>
+    <g>
+<use fill="#71e2ef" xlink:href="#b"/>
+        <mask id="g" x="69.3195" y="25.1344" width="84.8626" height="75.0694" maskUnits="userSpaceOnUse">
+<rect x="69.32" y="25.134" width="84.863" height="75.069"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#b"/>
+</mask>
+        <use fill="none" mask="url(#g)" stroke="#71e2ef" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#b"/>
+</g>
+    <path d="m116.99 95.441-15.79-42.085" fill="none" stroke="#2d6c9c" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="5.7788"/>
+    <g>
+<use fill="#38c6d9" xlink:href="#a"/>
+        <mask id="f" x="152.547" y="25.1344" width="84.8626" height="75.0694" maskUnits="userSpaceOnUse">
+<rect x="152.55" y="25.134" width="84.863" height="75.069"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#a"/>
+</mask>
+        <use fill="none" mask="url(#f)" stroke="#38c6d9" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#a"/>
+</g>
+    <path d="m99.476 47.103-2.7689-7.1523-2.2855-5.9035" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m205.39 47.103 2.769-7.1523 2.285-5.9035" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m179.92 43.697 1.586-13.91" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m124.89 43.697-1.585-13.91" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m152.55 41.137v-14" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2538"/>
+
+</svg>

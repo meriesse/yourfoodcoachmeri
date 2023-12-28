@@ -1,0 +1,62 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"
+     stroke-miterlimit="10"
+     version="1.1" viewBox="0 0 201 120" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path id="c"
+      d="m16.532 2.9414h167.84c7.147 0 12.941 6.9033 12.941 15.419v83.478c0 8.515-5.794 15.419-12.941 15.419h-167.84c-7.1474 0-12.942-6.904-12.942-15.419v-83.478c0-8.5157 5.7941-15.419 12.942-15.419z"/>
+    <path id="b"
+          d="m27.295 38.031c-4.343 8.5515 8.0938 53.751 15.58 58.23 7.4864 4.479 19.655-3.2705 33.946-5.2105 14.755-2.0029 24.88-0.4693 24.88-1.6899 0-2.4026 0.206-66.796 0.206-66.796s-19.126 0.0242-37.736 2.9545c-17.644 2.7782-34.762 8.3505-36.876 12.512z"/>
+    <path id="a"
+          d="m175.06 38.031c4.343 8.5515-8.094 53.751-15.58 58.23-7.487 4.479-19.655-3.2705-33.946-5.2105-14.755-2.0029-24.88-0.4693-24.88-1.6899 0-2.4026-0.206-66.796-0.206-66.796s19.126 0.0242 37.736 2.9545c17.644 2.7782 34.762 8.3505 36.876 12.512z"/>
+    <clipPath id="d">
+<rect x="119.2" y="57.529" width="38.02" height="28.6"/>
+</clipPath>
+</defs>
+
+    <g>
+<use fill="#adadad" xlink:href="#c"/>
+        <mask id="g" x="3.59097" y="2.9414" width="193.722" height="114.315" maskUnits="userSpaceOnUse">
+<rect x="3.591" y="2.9414" width="193.72" height="114.32"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#c"/>
+</mask>
+        <use fill="none" mask="url(#g)" stroke="#adadad" stroke-linecap="butt" stroke-linejoin="round" stroke-width=".5"
+             xlink:href="#c"/>
+</g>
+    <g>
+<use fill="#ffffff" xlink:href="#b"/>
+        <mask id="f" x="26.3978" y="22.5643" width="75.5089" height="75.0694" maskUnits="userSpaceOnUse">
+<rect x="26.398" y="22.564" width="75.509" height="75.069"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#b"/>
+</mask>
+        <use fill="none" mask="url(#f)" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#b"/>
+</g>
+    <path d="m68.815 92.871-14.05-42.085" fill="#adadad" stroke="#adadad" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="5.7788"/>
+    <g>
+<use fill="#ffffff" xlink:href="#a"/>
+        <mask id="e" x="100.452" y="22.5643" width="75.5089" height="75.0694" maskUnits="userSpaceOnUse">
+<rect x="100.45" y="22.564" width="75.509" height="75.069"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#a"/>
+</mask>
+        <use fill="none" mask="url(#e)" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="round"
+             stroke-width=".77707" xlink:href="#a"/>
+</g>
+    <path d="m53.23 44.532-2.4637-7.1522-2.0336-5.9035" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m147.47 44.532 2.464-7.1522 2.033-5.9035" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m124.81 41.127 1.411-13.91" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m75.845 41.127-1.4107-13.91" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="1.2538"/>
+    <path d="m100.45 38.567v-14" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2538"/>
+    <g>
+<path d="m122.52 62.395h2.273v8.3906l8.391-8.3906h3.222l-7.16 6.9375 7.36 10.277h-3.036l-6.023-8.6367-2.754 2.6367v6h-2.273v-17.215z"
+      clip-path="url(#d)"/>
+        <path d="m145.97 61.949c1.617 0 3.015 0.3125 4.195 0.9375 1.711 0.8984 2.758 2.4726 3.141 4.7226h-2.309c-0.281-1.2578-0.863-2.1738-1.746-2.748s-1.996-0.8613-3.34-0.8613c-1.594 0-2.935 0.5976-4.025 1.7929-1.09 1.1954-1.635 2.9766-1.635 5.3438 0 2.0469 0.449 3.7129 1.348 4.998 0.898 1.2852 2.363 1.9278 4.394 1.9278 1.555 0 2.842-0.4512 3.862-1.3535 1.019-0.9024 1.541-2.3614 1.564-4.377h-5.391v-1.9336h7.559v9.2109h-1.5l-0.563-2.2148c-0.789 0.8672-1.488 1.4688-2.097 1.8047-1.024 0.5781-2.324 0.8672-3.903 0.8672-2.039 0-3.792-0.6602-5.261-1.9805-1.602-1.6562-2.403-3.9297-2.403-6.8203 0-2.8828 0.782-5.1758 2.344-6.8789 1.485-1.625 3.406-2.4375 5.766-2.4375z"
+              clip-path="url(#d)"/>
+</g>
+
+</svg>

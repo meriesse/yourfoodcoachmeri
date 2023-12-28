@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="100%"
+     stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+     version="1.1" viewBox="0 0 260 260" width="100%" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path d="M116.269 40.5965L146.76 40.5965C153.884 40.5965 153.884 48.2843 153.884 50.7098L150.1 159.423C150.1 161.848 147.338 163.814 143.931 163.814L116.269 163.814C112.862 163.814 110.1 161.848 110.1 159.423C110.1 159.423 105.34 60.823 105.34 50.7098C105.34 40.5965 112.862 40.5965 116.269 40.5965Z"
+      id="Fill_8"/>
+    <path d="M135.074 41.5345L143.934 41.5345C146.693 41.5345 152.496 41.5345 152.496 51.5708C152.496 58.0284 151.02 100.467 149.967 129.911C149.383 146.228 148.929 158.555 148.929 158.555C148.929 161.46 146.693 163.814 143.934 163.814L135.074 163.814C132.315 163.814 129.716 163.814 129.716 163.814L129.716 41.5345C129.716 41.5345 132.315 41.5345 135.074 41.5345Z"
+          id="Fill_8_2"/>
+    <path d="M129.716 180.901L129.716 180.901C140.485 180.901 149.216 187.965 149.216 200.401C149.216 212.837 149.216 201.94 149.216 201.94C149.216 211.859 140.485 219.901 129.716 219.901L129.716 219.901C118.946 219.901 110.216 211.859 110.216 201.94L110.216 200.401C110.216 190.481 118.946 180.901 129.716 180.901Z"
+          id="Fill_8_3"/>
+    <path d="M129.83 180.901L129.83 180.901C139.719 180.901 146.923 187.905 147.631 198.958L147.631 201.94C147.631 212.045 139.719 219.901 129.83 219.901L129.83 219.901L129.83 219.045L129.83 217.675L129.83 213.831C129.83 213.831 129.83 201.169 129.83 201.169L129.83 191.156L129.83 183.127L129.83 180.901Z"
+          id="Fill_8_4"/>
+    <path d="M116.269 40.5965L146.76 40.5965C153.884 40.5965 153.884 48.4085 153.884 50.8732L150.1 161.342C150.1 163.807 147.338 165.805 143.931 165.805L116.269 165.805C112.862 165.805 110.1 163.807 110.1 161.342C110.1 161.342 105.34 61.1498 105.34 50.8732C105.34 40.5965 112.862 40.5965 116.269 40.5965Z"
+          id="Fill_8_5"/>
+    <path d="M129.716 180.901L129.716 180.901C140.485 180.901 149.216 187.965 149.216 200.401C149.216 212.837 149.216 201.94 149.216 201.94C149.216 211.859 140.485 219.901 129.716 219.901L129.716 219.901C118.946 219.901 110.216 211.859 110.216 201.94L110.216 200.401C110.216 190.481 118.946 180.901 129.716 180.901Z"
+          id="Fill_8_6"/>
+</defs>
+    <g id="Livello-2">
+<path d="M78.7387 253.392L6.58231 181.234L6.55571 79.1595L78.6744 6.96339L180.692 6.93676L252.849 79.0952L252.875 181.169L180.757 253.365L78.7387 253.392Z"
+      fill="#fe664f" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round"
+      stroke-width="7"/>
+        <path d="M129.832 249.907L129.714 179.449L129.612 81.5132L129.961 10.3895L179.91 10.3636L239.604 68.1654L250.988 79.1885L250.988 179.71L179.974 249.881L129.832 249.907Z"
+              fill="#f1472c" fill-rule="nonzero" opacity="1" stroke="none"/>
+        <g opacity="1">
+<use fill="#efefef" fill-rule="nonzero" stroke="none" xlink:href="#Fill_8"/>
+            <mask height="123.218" id="StrokeMask" maskUnits="userSpaceOnUse" width="48.5434" x="105.34" y="40.5965">
+<rect fill="#000000" height="123.218" stroke="none" width="48.5434" x="105.34" y="40.5965"/>
+                <use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_8"/>
+</mask>
+            <use fill="none" mask="url(#StrokeMask)" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round"
+                 stroke-width="27.46" xlink:href="#Fill_8"/>
+</g>
+        <g opacity="1">
+<use fill="#feeccd" fill-rule="nonzero" stroke="none" xlink:href="#Fill_8_2"/>
+            <mask height="122.28" id="StrokeMask_2" maskUnits="userSpaceOnUse" width="22.7806" x="129.716" y="41.5345">
+<rect fill="#000000" height="122.28" stroke="none" width="22.7806" x="129.716" y="41.5345"/>
+                <use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_8_2"/>
+</mask>
+            <use fill="none" mask="url(#StrokeMask_2)" stroke="#feeccd" stroke-linecap="round" stroke-linejoin="round"
+                 stroke-width="27.46" xlink:href="#Fill_8_2"/>
+</g>
+        <path d="M129.83 183.127L129.83 217.675" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none"/>
+        <g opacity="1">
+<use fill="#efefef" fill-rule="nonzero" stroke="none" xlink:href="#Fill_8_3"/>
+            <mask height="39" id="StrokeMask_3" maskUnits="userSpaceOnUse" width="39" x="110.216" y="180.901">
+<rect fill="#000000" height="39" stroke="none" width="39" x="110.216" y="180.901"/>
+                <use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_8_3"/>
+</mask>
+            <use fill="none" mask="url(#StrokeMask_3)" stroke="#efefef" stroke-linecap="round" stroke-linejoin="round"
+                 stroke-width="27.46" xlink:href="#Fill_8_3"/>
+</g>
+        <g opacity="1">
+<use fill="#feeccd" fill-rule="nonzero" stroke="none" xlink:href="#Fill_8_4"/>
+            <mask height="39" id="StrokeMask_4" maskUnits="userSpaceOnUse" width="17.8011" x="129.83" y="180.901">
+<rect fill="#000000" height="39" stroke="none" width="17.8011" x="129.83" y="180.901"/>
+                <use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_8_4"/>
+</mask>
+            <use fill="none" mask="url(#StrokeMask_4)" stroke="#feeccd" stroke-linecap="round" stroke-linejoin="round"
+                 stroke-width="27.46" xlink:href="#Fill_8_4"/>
+</g>
+        <g opacity="1">
+<mask height="125.209" id="StrokeMask_5" maskUnits="userSpaceOnUse" width="48.5434" x="105.34" y="40.5965">
+<rect fill="#000000" height="125.209" stroke="none" width="48.5434" x="105.34" y="40.5965"/>
+    <use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_8_5"/>
+</mask>
+            <use fill="none" mask="url(#StrokeMask_5)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+                 stroke-width="4" xlink:href="#Fill_8_5"/>
+</g>
+        <g opacity="1">
+<mask height="39" id="StrokeMask_6" maskUnits="userSpaceOnUse" width="39" x="110.216" y="180.901">
+<rect fill="#000000" height="39" stroke="none" width="39" x="110.216" y="180.901"/>
+    <use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill_8_6"/>
+</mask>
+            <use fill="none" mask="url(#StrokeMask_6)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"
+                 stroke-width="4" xlink:href="#Fill_8_6"/>
+</g>
+</g>
+</svg>

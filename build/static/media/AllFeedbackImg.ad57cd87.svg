@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"
+     stroke-miterlimit="10"
+     version="1.1" viewBox="0 0 100 108" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path id="f"
+      d="m14.71 63.865c8.0611-6.104 12.051 1.9576 22.152 1.8918 9.3662-0.061 15.716-7.8827 23.128-1.8918 13.968 11.29 11.85 42.165 11.85 42.165h-69.434s-4.872-29.16 12.303-42.165z"/>
+    <path id="e"
+          d="m14.61 38.888c0-12.532 10.159-22.691 22.69-22.691 12.531 0 22.69 10.159 22.69 22.691s-10.159 22.691-22.69 22.691c-12.531 0-22.69-10.159-22.69-22.691z"/>
+    <path id="d"
+          d="m60.388 2.9162c-4.7439 0-6.7823 4.5677-6.7823 10.372 0 5.8048 2.0384 10.672 6.7823 10.672h1.7225v10.372l6.6747-5.7847 5.2751-4.5878h17.01c4.744 0 7.5359-4.8669 7.5359-10.672 0-5.8047-2.7919-10.372-7.5359-10.372h-30.682z"/>
+    <path id="c"
+          d="m83.802 13.536c0-1.322 1.1568-2.3937 2.5838-2.3937 1.4269 0 2.5837 1.0717 2.5837 2.3937 0 1.3219-1.1568 2.3936-2.5837 2.3936-1.427 0-2.5838-1.0717-2.5838-2.3936z"/>
+    <path id="b"
+          d="m73.506 13.536c0-1.322 1.1568-2.3937 2.5837-2.3937 1.427 0 2.5838 1.0717 2.5838 2.3937 0 1.3219-1.1568 2.3936-2.5838 2.3936-1.4269 0-2.5837-1.0717-2.5837-2.3936z"/>
+    <path id="a"
+          d="m63.224 13.536c0-1.322 1.1568-2.3937 2.5837-2.3937 1.427 0 2.5838 1.0717 2.5838 2.3937 0 1.3219-1.1568 2.3936-2.5838 2.3936-1.4269 0-2.5837-1.0717-2.5837-2.3936z"/>
+</defs>
+
+    <g>
+<use fill="#da5b65" xlink:href="#f"/>
+        <mask id="l" x="1.76848" y="61.5794" width="70.1871" height="44.4502" maskUnits="userSpaceOnUse">
+<rect x="1.7685" y="61.579" width="70.187" height="44.45"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#f"/>
+</mask>
+        <use fill="none" mask="url(#l)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4"
+             xlink:href="#f"/>
+</g>
+    <g>
+<use fill="#ffb59f" xlink:href="#e"/>
+        <mask id="k" x="14.6104" y="16.1966" width="45.38" height="45.3828" maskUnits="userSpaceOnUse">
+<rect x="14.61" y="16.197" width="45.38" height="45.383"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#e"/>
+</mask>
+        <use fill="none" mask="url(#k)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4"
+             xlink:href="#e"/>
+</g>
+    <g>
+<use fill="#ffffff" xlink:href="#d"/>
+        <mask id="j" x="53.6052" y="2.91624" width="45" height="31.4166" maskUnits="userSpaceOnUse">
+<rect x="53.605" y="2.9162" width="45" height="31.417"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#d"/>
+</mask>
+        <use fill="none" mask="url(#j)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4"
+             xlink:href="#d"/>
+</g>
+    <g>
+<use fill="#000000" xlink:href="#c"/>
+        <mask id="i" x="83.8017" y="11.1424" width="5.16746" height="4.7873" maskUnits="userSpaceOnUse">
+<rect x="83.802" y="11.142" width="5.1675" height="4.7873"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#c"/>
+</mask>
+        <use fill="none" mask="url(#i)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" xlink:href="#c"/>
+</g>
+    <g>
+<use fill="#000000" xlink:href="#b"/>
+        <mask id="h" x="73.5059" y="11.1424" width="5.16746" height="4.7873" maskUnits="userSpaceOnUse">
+<rect x="73.506" y="11.142" width="5.1675" height="4.7873"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#b"/>
+</mask>
+        <use fill="none" mask="url(#h)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" xlink:href="#b"/>
+</g>
+    <g>
+<use fill="#000000" xlink:href="#a"/>
+        <mask id="g" x="63.2244" y="11.1424" width="5.16746" height="4.7873" maskUnits="userSpaceOnUse">
+<rect x="63.224" y="11.142" width="5.1675" height="4.7873"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#a"/>
+</mask>
+        <use fill="none" mask="url(#g)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" xlink:href="#a"/>
+</g>
+
+</svg>

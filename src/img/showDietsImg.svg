@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"
+     stroke-miterlimit="10"
+     version="1.1" viewBox="0 0 470 430" xml:space="preserve"
+     xmlns="http://www.w3.org/2000/svg">
+<defs>
+<path id="h" d="m0 17.177h354.26v349.9h-354.26v-349.9z"/>
+    <path id="g"
+          d="m269.75 73.735c9.045 0 16.372-9.5251 16.372-21.284v-52.45h-217.99v52.45c0 11.759 7.3271 21.284 16.372 21.284h185.24z"/>
+    <path id="f"
+          d="m39.332 116.5c0-20.001 16.809-36.216 37.544-36.216s37.544 16.214 37.544 36.216c0 20.001-16.809 36.216-37.544 36.216s-37.544-16.215-37.544-36.216z"/>
+    <path id="e"
+          d="m39.332 204.6c0-20.002 16.809-36.216 37.544-36.216s37.544 16.214 37.544 36.216c0 20.001-16.809 36.215-37.544 36.215s-37.544-16.214-37.544-36.215z"/>
+    <path id="d"
+          d="m39.332 293.81c0-20.002 16.809-36.216 37.544-36.216s37.544 16.214 37.544 36.216c0 20.001-16.809 36.215-37.544 36.215s-37.544-16.214-37.544-36.215z"/>
+    <path id="c"
+          d="m227.28 256.12c-30.342 0-54.938 31.997-54.938 71.469s24.595 71.468 54.938 71.468c10.933 0 21.097-4.213 29.656-11.375 8.563 7.17 18.717 11.375 29.656 11.375 30.343 0 54.969-31.996 54.969-71.468s-24.626-71.469-54.969-71.469c-10.944 0-21.091 4.199-29.656 11.375-8.562-7.168-18.718-11.375-29.656-11.375z"/>
+    <path id="b"
+          d="m263.74 245.89c-7.486-2.824-6.815-12.604 1.497-21.844 8.313-9.24 21.12-14.441 28.606-11.617s6.815 12.603-1.497 21.843c-8.313 9.24-21.12 14.442-28.606 11.618z"/>
+    <path id="a"
+          d="m439.41 168.61c-7.588 1.03-17.2 11.827-22.875 26.375-1.202 3.083-2.065 6.087-2.75 9-16.12 10.282-34.207 41.256-45.562 80.968-4.57 15.981-7.347 31.374-8.75 45.532-16.678 7.171-33.254 19.096-44.688 33.625-0.647 0.822-1.057 1.619-1.656 2.437-19.612-1.892-41.4-1.22-60.375 2.563-36.485 7.273-48.603 23.083-27.062 35.312 18.997 10.785 57.817 15.164 91.75 11.063 1.614 0.475 3.299 0.873 5.156 1.125 19.268 2.613 45.691-8.086 65.969-25.219 16.352-9.656 34.923-41.013 46.5-81.5 11.479-40.148 12.795-77.705 4.812-96.688 1.899-3.164 3.684-6.663 5.156-10.437 6.486-16.626 5.34-31.847-2.531-34-0.984-0.269-2.009-0.304-3.094-0.156z"/>
+</defs>
+
+    <g>
+<use fill="#ffe3c6" xlink:href="#h"/>
+        <mask id="p" x="0" y="17.177" width="354.256" height="349.904" maskUnits="userSpaceOnUse">
+<rect y="17.177" width="354.26" height="349.9"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#h"/>
+</mask>
+        <use fill="none" mask="url(#p)" stroke="#ffe3c6" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#h"/>
+</g>
+    <g>
+<use fill="#8b8b8b" xlink:href="#g"/>
+        <mask id="o" x="68.1349" y="0" width="217.986" height="73.7348" maskUnits="userSpaceOnUse">
+<rect x="68.135" width="217.99" height="73.735"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#g"/>
+</mask>
+        <use fill="none" mask="url(#o)" stroke="#8b8b8b" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#g"/>
+</g>
+    <g>
+<use fill="#ffe3c6" xlink:href="#f"/>
+        <mask id="n" x="39.3315" y="80.2814" width="75.0879" height="72.4314" maskUnits="userSpaceOnUse">
+<rect x="39.332" y="80.281" width="75.088" height="72.431"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#f"/>
+</mask>
+        <use fill="none" mask="url(#n)" stroke="#d8c6b8" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#f"/>
+</g>
+    <g>
+<use fill="#ffe3c6" xlink:href="#e"/>
+        <mask id="m" x="39.3315" y="168.387" width="75.0879" height="72.4314" maskUnits="userSpaceOnUse">
+<rect x="39.332" y="168.39" width="75.088" height="72.431"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#e"/>
+</mask>
+        <use fill="none" mask="url(#m)" stroke="#d8c6b8" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#e"/>
+</g>
+    <g>
+<use fill="#ffe3c6" xlink:href="#d"/>
+        <mask id="l" x="39.3315" y="257.597" width="75.0879" height="72.4314" maskUnits="userSpaceOnUse">
+<rect x="39.332" y="257.6" width="75.088" height="72.431"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#d"/>
+</mask>
+        <use fill="none" mask="url(#l)" stroke="#d8c6b8" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#d"/>
+</g>
+    <path d="m46.686 96.543 32.153 33.255" fill="none" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m72.017 129.8 47.626-44.838" fill="#ec0014" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m46.686 184.87 32.153 33.255" fill="none" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m72.017 218.12 47.626-44.838" fill="#ec0014" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m46.686 96.543 32.153 33.255" fill="none" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m72.017 129.8 47.626-44.838" fill="#ec0014" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m46.686 273.46 32.153 33.255" fill="none" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m72.017 306.72 47.626-44.838" fill="#ec0014" stroke="#ec0014" stroke-linecap="butt" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m140.76 107.38h173.81" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m141.11 132.2h123.27" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m140.76 107.38h173.81" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m141.11 132.2h123.27" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m141.11 195.7h173.81" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m141.46 220.52h123.27" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m141.11 195.7h173.81" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m141.46 220.52h123.27" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m139.64 284.3h173.81" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m139.99 309.12h123.27" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m139.64 284.3h173.81" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+    <path d="m139.99 309.12h123.27" fill="none" stroke="#d8c6b8" stroke-linecap="round" stroke-linejoin="round"
+          stroke-width="10"/>
+
+
+    <g>
+<use fill="#ec0014" xlink:href="#c"/>
+        <mask id="k" x="172.339" y="256.117" width="169.219" height="142.938" maskUnits="userSpaceOnUse">
+<rect x="172.34" y="256.12" width="169.22" height="142.94"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#c"/>
+</mask>
+        <use fill="none" mask="url(#k)" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#c"/>
+</g>
+    <path d="m221.02 283.51s-9.316 3.311-14.732 10.693c-5.417 7.381-6.934 18.834-6.934 18.834" fill="none"
+          opacity=".97816" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="m235.28 233.87s9.315 3.311 14.732 10.693c5.416 7.381 6.934 18.834 6.934 18.834" fill="none"
+          opacity=".97816" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g opacity=".97816">
+<use fill="#6fd907" xlink:href="#b"/>
+        <mask id="j" x="258.534" y="211.657" width="40.5101" height="34.9981" maskUnits="userSpaceOnUse">
+<rect x="258.53" y="211.66" width="40.51" height="34.998"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#b"/>
+</mask>
+        <use fill="none" mask="url(#j)" stroke="#6fd907" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#b"/>
+</g>
+    <path d="m301.75 209.68s-16.438 1.777-27.918 10.212-18.001 23.529-18.001 23.529" fill="none" opacity=".97816"
+          stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="m257.25 248.64s16.055-2.051 27.266-11.792c11.212-9.74 17.581-27.168 17.581-27.168" fill="none"
+          opacity=".97816" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+
+
+    <g>
+<use fill="#fddf19" xlink:href="#a"/>
+        <mask id="i" x="215.027" y="168.527" width="234.215" height="248.48" maskUnits="userSpaceOnUse">
+<rect x="215.03" y="168.53" width="234.22" height="248.48"/>
+            <use fill="#ffffff" fill-rule="evenodd" xlink:href="#a"/>
+</mask>
+        <use fill="none" mask="url(#i)" stroke="#fddf19" stroke-linecap="butt" stroke-linejoin="round" stroke-width="20"
+             xlink:href="#a"/>
+</g>
+    <path d="m429.37 168.53-15.586 35.462" fill="none" opacity=".97816" stroke="#000" stroke-linecap="round"
+          stroke-linejoin="round" stroke-width="10"/>
+    <path d="m430.44 168.53 25.059 7.579" fill="none" opacity=".97816" stroke="#000" stroke-linecap="round"
+          stroke-linejoin="round" stroke-width="10"/>
+    <path d="m455.5 176.11-12.529 32.037" fill="none" opacity=".97816" stroke="#000" stroke-linecap="round"
+          stroke-linejoin="round" stroke-width="10"/>
+    <path d="m442.97 208.15s11.342 119.18-41.329 174.32c-25.543 26.737-83.417 43.332-120.71 36.92-39.61-6.81-70.543-22.573-70.543-22.573"
+          fill="none" opacity=".97816" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="m210.18 397.32 11.187-21.34" fill="none" opacity=".97816" stroke="#000" stroke-linecap="round"
+          stroke-linejoin="round" stroke-width="10"/>
+    <path d="m221.81 376.5 16.255-0.866" fill="none" opacity=".97816" stroke="#000" stroke-linecap="round"
+          stroke-linejoin="round" stroke-width="10"/>
+    <path d="m239.26 375.05-5.376 19.126" fill="none" opacity=".97816" stroke="#000" stroke-linecap="round"
+          stroke-linejoin="round" stroke-width="10"/>
+    <path d="m239.26 375.05s10.724-9.364 23.709-9.563c16.398-0.252 37.704 7.404 60.057-7.689 17.577-11.868 31.389-26.36 40.043-43.347 5.65-11.091 7.42-19.572 10.612-31.321 1.628-5.991 1.981-12.449 4.658-19.732 2.678-7.283 3.146-9.771 7.461-19.983s6.693-16.202 10.502-20.866c6.88-8.424 14.554-14.514 17.486-18.562 2.933-4.049 15.586 4.158 15.586 4.158"
+          fill="none" opacity=".97816" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <path d="m423.04 222.55s-5.304 8.834-8.457 17.316m-4.667 39.964c-4.233 24.992-14.717 53.845-36.531 73.86-20.408 18.725-51.659 37.027-81.457 32.537-31.648-4.769-30.822-3.848-30.822-3.848"
+          fill="none" opacity=".97816" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+
+</svg>
